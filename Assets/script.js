@@ -12,7 +12,9 @@ $(function () {
   $(".saveBtn").click("onClick",function() {
     console.log("I am clicked.");
     localStorage.setItem('time', 'text');
-    
+    console.log("I am storing.")
+
+
 
   })
   // TODO: Add code to apply the past, present, or future class to each time
@@ -24,6 +26,10 @@ $(function () {
   // TODO: Add code to get any user input that was saved in localStorage and set
   // the values of the corresponding textarea elements. HINT: How can the id
   // attribute of each time-block be used to do this?
-  //
+  const value = localStorage.getItem('text');
+  
   // TODO: Add code to display the current date in the header of the page.
+  const now = dayjs('dddd, MMM DD YYYY, h:mm:ss');
+$("#currentDay").text(now);
+    
 });
