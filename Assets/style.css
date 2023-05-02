@@ -2,6 +2,12 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
+header {
+  display: flex;
+  align-items:center;
+  justify-content:start;
+  flex-direction: column;
+}
 
 textarea {
   background: transparent;
