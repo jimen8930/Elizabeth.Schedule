@@ -1,4 +1,5 @@
 # Elizabeth.Schedule
+ https://jimen8930.github.io/Elizabeth.Schedule/
 Workday Schedule
 
 This project consist of a schedule the user can use to manage their time at work. It is an interactive schedule that will save the user information in each time block. Here are some features that the user will enjoy:
