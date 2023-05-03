@@ -14,3 +14,4 @@ The calender features are user friendly and it is compatible with any device.
 
 Here are some screen shots of the workday calender: 
 ![Screen Shot 2023-05-01 at 11 37 04 PM](https://user-images.githubusercontent.com/128547615/235575440-3993fa3b-c261-489e-83a9-42f61cb38789.png)
+![Screen Shot 2023-05-03 at 10 17 18 AM](https://user-images.githubusercontent.com/128547615/235943397-d11a5f89-f20d-493c-8200-ac8e971ae9e8.png)
